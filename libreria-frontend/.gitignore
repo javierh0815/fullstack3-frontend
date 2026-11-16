@@ -5,11 +5,16 @@
 /tmp
 /out-tsc
 /bazel-out
+/libreria-frontend/dist
+/libreria-frontend/tmp
+/libreria-frontend/out-tsc
+/libreria-frontend/bazel-out
 
 # Node
 /node_modules
 npm-debug.log
 yarn-error.log
+/libreria-frontend/node_modules
 
 # IDEs and editors
 .idea/
@@ -28,6 +33,13 @@ yarn-error.log
 !.vscode/extensions.json
 !.vscode/mcp.json
 .history/*
+libreria-frontend/.vscode/*
+!libreria-frontend/.vscode/settings.json
+!libreria-frontend/.vscode/tasks.json
+!libreria-frontend/.vscode/launch.json
+!libreria-frontend/.vscode/extensions.json
+!libreria-frontend/.vscode/mcp.json
+libreria-frontend/.history/*
 
 # Miscellaneous
 /.angular/cache
@@ -38,6 +50,10 @@ yarn-error.log
 testem.log
 /typings
 __screenshots__/
+/libreria-frontend/.angular/cache
+/libreria-frontend/connect.lock
+/libreria-frontend/coverage
+/libreria-frontend/typings
 
 # System files
 .DS_Store
