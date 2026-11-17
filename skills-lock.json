@@ -1,0 +1,213 @@
+{
+  "version": 2,
+  "skills": {
+    "amazon-bedrock": {
+      "source": "aws/agent-toolkit-for-aws",
+      "commit": "2b762874f54913b9b43d1aa59a464b67486fbd85",
+      "sourceType": "github",
+      "skillPath": "skills/core-skills/amazon-bedrock/SKILL.md",
+      "computedHash": "f442c15bd00c6aca1767ec90f44d46c6e242baa7a2adf543509083a0b05fcacf",
+      "installMode": "copy"
+    },
+    "aws-ai-ml": {
+      "source": "aws/agent-toolkit-for-aws",
+      "commit": "2b762874f54913b9b43d1aa59a464b67486fbd85",
+      "sourceType": "github",
+      "skillPath": "skills/core-skills/aws-ai-ml/SKILL.md",
+      "computedHash": "40e1aa1799327cc956ac8a6333204e68bc330035311851c3f29606f4db2c58c3",
+      "installMode": "copy"
+    },
+    "aws-auth": {
+      "source": "aws/agent-toolkit-for-aws",
+      "commit": "2b762874f54913b9b43d1aa59a464b67486fbd85",
+      "sourceType": "github",
+      "skillPath": "skills/core-skills/aws-auth/SKILL.md",
+      "computedHash": "e6a1bd9d2084dd84ae24410c6cf3733ecb8e64cc97d651a715dccf389d648efe",
+      "installMode": "copy"
+    },
+    "aws-billing-and-cost-management": {
+      "source": "aws/agent-toolkit-for-aws",
+      "commit": "2b762874f54913b9b43d1aa59a464b67486fbd85",
+      "sourceType": "github",
+      "skillPath": "skills/core-skills/aws-billing-and-cost-management/SKILL.md",
+      "computedHash": "97e35a425855fdae724d982854e98af917d1c2e18a242ab091c4e5c784cec410",
+      "installMode": "copy"
+    },
+    "aws-blocks": {
+      "source": "aws/agent-toolkit-for-aws",
+      "commit": "2b762874f54913b9b43d1aa59a464b67486fbd85",
+      "sourceType": "github",
+      "skillPath": "skills/core-skills/aws-blocks/SKILL.md",
+      "computedHash": "9b77d041860469b12600e17adcff87ec3ec8ba211cd3d4bbef66db3ffaf1e404",
+      "installMode": "copy"
+    },
+    "aws-cdk": {
+      "source": "aws/agent-toolkit-for-aws",
+      "commit": "2b762874f54913b9b43d1aa59a464b67486fbd85",
+      "sourceType": "github",
+      "skillPath": "skills/core-skills/aws-cdk/SKILL.md",
+      "computedHash": "631d26e2b13db93300dfb32686945ca489593619663e532763e309961ec5fe23",
+      "installMode": "copy"
+    },
+    "aws-cloudformation": {
+      "source": "aws/agent-toolkit-for-aws",
+      "commit": "2b762874f54913b9b43d1aa59a464b67486fbd85",
+      "sourceType": "github",
+      "skillPath": "skills/core-skills/aws-cloudformation/SKILL.md",
+      "computedHash": "5cf7f77280e9e445860c5b153c2e9f9b7041ffb93ed6ff58c4bad26c24fc3847",
+      "installMode": "copy"
+    },
+    "aws-compute": {
+      "source": "aws/agent-toolkit-for-aws",
+      "commit": "2b762874f54913b9b43d1aa59a464b67486fbd85",
+      "sourceType": "github",
+      "skillPath": "skills/core-skills/aws-compute/SKILL.md",
+      "computedHash": "918e5435e615ed0d518230ca6d496e1c0b06482d55b14f59f10137f4c1461aad",
+      "installMode": "copy"
+    },
+    "aws-containers": {
+      "source": "aws/agent-toolkit-for-aws",
+      "commit": "2b762874f54913b9b43d1aa59a464b67486fbd85",
+      "sourceType": "github",
+      "skillPath": "skills/core-skills/aws-containers/SKILL.md",
+      "computedHash": "b6735d47bbf80cf06ee69da5bd95b4f5fb520ea38f0b01e8b1cbe99f77b9f0cd",
+      "installMode": "copy"
+    },
+    "aws-database": {
+      "source": "aws/agent-toolkit-for-aws",
+      "commit": "2b762874f54913b9b43d1aa59a464b67486fbd85",
+      "sourceType": "github",
+      "skillPath": "skills/core-skills/aws-database/SKILL.md",
+      "computedHash": "b9e6336fdec1f431d50d76406c7b80a9a0a3aec31d191173a0d4346537d3edc8",
+      "installMode": "copy"
+    },
+    "aws-deployment": {
+      "source": "aws/agent-toolkit-for-aws",
+      "commit": "2b762874f54913b9b43d1aa59a464b67486fbd85",
+      "sourceType": "github",
+      "skillPath": "skills/core-skills/aws-deployment/SKILL.md",
+      "computedHash": "298db824a30a46ce3f06c66a9d7d7af66336df79f67c75bca6dfee303ac71a15",
+      "installMode": "copy"
+    },
+    "aws-emulator": {
+      "source": "aws/agent-toolkit-for-aws",
+      "commit": "2b762874f54913b9b43d1aa59a464b67486fbd85",
+      "sourceType": "github",
+      "skillPath": "skills/core-skills/aws-emulator/SKILL.md",
+      "computedHash": "cee8a8ff53c7b1d1f53bd410f205cdae3cdb897f308d2cf0b9225b711d3472d0",
+      "installMode": "copy"
+    },
+    "aws-iam": {
+      "source": "aws/agent-toolkit-for-aws",
+      "commit": "2b762874f54913b9b43d1aa59a464b67486fbd85",
+      "sourceType": "github",
+      "skillPath": "skills/core-skills/aws-iam/SKILL.md",
+      "computedHash": "0b0a18dcf4bc953aa49c3fc18175c9ab9fb7b4b0977462a34cb800110504edc4",
+      "installMode": "copy"
+    },
+    "aws-investigation": {
+      "source": "aws/agent-toolkit-for-aws",
+      "commit": "2b762874f54913b9b43d1aa59a464b67486fbd85",
+      "sourceType": "github",
+      "skillPath": "skills/core-skills/aws-investigation/SKILL.md",
+      "computedHash": "29750d82f4e7782927911db94e2b236768392ffab4b578c0aeb448d2fbd56f85",
+      "installMode": "copy"
+    },
+    "aws-messaging-and-streaming": {
+      "source": "aws/agent-toolkit-for-aws",
+      "commit": "2b762874f54913b9b43d1aa59a464b67486fbd85",
+      "sourceType": "github",
+      "skillPath": "skills/core-skills/aws-messaging-and-streaming/SKILL.md",
+      "computedHash": "2fc88dd0c49412a034508b8e0c9b9372029b30be693eedaf7a28e72ec1a0258c",
+      "installMode": "copy"
+    },
+    "aws-networking": {
+      "source": "aws/agent-toolkit-for-aws",
+      "commit": "2b762874f54913b9b43d1aa59a464b67486fbd85",
+      "sourceType": "github",
+      "skillPath": "skills/core-skills/aws-networking/SKILL.md",
+      "computedHash": "eeda90040f3d694841d90f4c714a49da4bd779126a8c4d81330b28677c6ea9a3",
+      "installMode": "copy"
+    },
+    "aws-observability": {
+      "source": "aws/agent-toolkit-for-aws",
+      "commit": "2b762874f54913b9b43d1aa59a464b67486fbd85",
+      "sourceType": "github",
+      "skillPath": "skills/core-skills/aws-observability/SKILL.md",
+      "computedHash": "ba7486acaf3fc140bcb97c13a693ba9ed1cb3c692a8cb4395a17614340a0e5ab",
+      "installMode": "copy"
+    },
+    "aws-sdk-js-v3-usage": {
+      "source": "aws/agent-toolkit-for-aws",
+      "commit": "2b762874f54913b9b43d1aa59a464b67486fbd85",
+      "sourceType": "github",
+      "skillPath": "skills/core-skills/aws-sdk-js-v3-usage/SKILL.md",
+      "computedHash": "e2b3f28beb2eddb37af59774d5ab696197879204ef9a3d6260081d401c3a6ba4",
+      "installMode": "copy"
+    },
+    "aws-sdk-python-usage": {
+      "source": "aws/agent-toolkit-for-aws",
+      "commit": "2b762874f54913b9b43d1aa59a464b67486fbd85",
+      "sourceType": "github",
+      "skillPath": "skills/core-skills/aws-sdk-python-usage/SKILL.md",
+      "computedHash": "ed4d00991794325a347e43414367554040c78f530c9a6feee45e49b82d9d9189",
+      "installMode": "copy"
+    },
+    "aws-sdk-swift-usage": {
+      "source": "aws/agent-toolkit-for-aws",
+      "commit": "2b762874f54913b9b43d1aa59a464b67486fbd85",
+      "sourceType": "github",
+      "skillPath": "skills/core-skills/aws-sdk-swift-usage/SKILL.md",
+      "computedHash": "4f8c992a8ef791969e7b2adfc8f60aedcd5645e77c1985951ed71a80527b626b",
+      "installMode": "copy"
+    },
+    "aws-security": {
+      "source": "aws/agent-toolkit-for-aws",
+      "commit": "2b762874f54913b9b43d1aa59a464b67486fbd85",
+      "sourceType": "github",
+      "skillPath": "skills/core-skills/aws-security/SKILL.md",
+      "computedHash": "308162ec5bdcff3e6cadf6c3ba6ef652b1b29901cd007bc61b7f47de8cea32f4",
+      "installMode": "copy"
+    },
+    "aws-serverless": {
+      "source": "aws/agent-toolkit-for-aws",
+      "commit": "2b762874f54913b9b43d1aa59a464b67486fbd85",
+      "sourceType": "github",
+      "skillPath": "skills/core-skills/aws-serverless/SKILL.md",
+      "computedHash": "0eb9199e5f0e09a9ceb746a460215ee2784fa057a6e6e6175c0a585557b4ef24",
+      "installMode": "copy"
+    },
+    "aws-storage": {
+      "source": "aws/agent-toolkit-for-aws",
+      "commit": "2b762874f54913b9b43d1aa59a464b67486fbd85",
+      "sourceType": "github",
+      "skillPath": "skills/core-skills/aws-storage/SKILL.md",
+      "computedHash": "5a9bc6b0ecf7fdc0fcc9404967f06b5a06c264ae6e04ba88dca3399a1a8e383e",
+      "installMode": "copy"
+    },
+    "aws-well-architected-review": {
+      "source": "aws/agent-toolkit-for-aws",
+      "commit": "2b762874f54913b9b43d1aa59a464b67486fbd85",
+      "sourceType": "github",
+      "skillPath": "skills/core-skills/aws-well-architected-review/SKILL.md",
+      "computedHash": "5d72b2a54a7dc5e7ca37464c0740a748780e86b13b05242cbbeb1595bde1ca91",
+      "installMode": "copy"
+    },
+    "launch-with-aws": {
+      "source": "aws/agent-toolkit-for-aws",
+      "commit": "2b762874f54913b9b43d1aa59a464b67486fbd85",
+      "sourceType": "github",
+      "skillPath": "skills/core-skills/launch-with-aws/SKILL.md",
+      "computedHash": "c1100b62e829c45d3d25eb51537bc9bbe7b1bc8c96cc4c36ad115d9f1f127c19",
+      "installMode": "copy"
+    },
+    "signing-in-to-aws": {
+      "source": "aws/agent-toolkit-for-aws",
+      "commit": "2b762874f54913b9b43d1aa59a464b67486fbd85",
+      "sourceType": "github",
+      "skillPath": "skills/core-skills/signing-in-to-aws/SKILL.md",
+      "computedHash": "f18c637d3b334bda1e3b65c6eb9e6b71b3310f8b422a84e3b3462ba20a37acbe",
+      "installMode": "copy"
+    }
+  }
+}
